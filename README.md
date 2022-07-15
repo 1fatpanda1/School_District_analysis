@@ -20,12 +20,14 @@ after
 •	Scores by school spending decreased a little but not enough to impact the charts when rounded to the nearest % or .1 score
 before
 ![spendbefore](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/Spending%20ranges%20before.png)
+
 after
 ![spendafter.png](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/Spending%20ranges%20after.png)
 
 •	Scores for Medium schools decreased a little but not enough to impact the chart when rounded to the nearest % or .1 score
 before
 ![bysizebefore](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/By%20school%20size%20before.png)
+
 after
 ![bysizeafter.png](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/By%20school%20size%20before.png)
 
