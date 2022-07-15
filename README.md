@@ -10,9 +10,17 @@ Replacing the 9th grade class results changed the data for Thomas High School in
 •	The school summary is unchanged except for Thomas High
 •	Thomas High school’s average math score and % passing math. Their average reading score, % passing reading and overall percent passing decreased. 
 •	Despite the average scores and percentage passing decreasing, Thomas High remained the 2nd best performing school
+before
+![top5before.png](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/Top%205%20before.png)
+after
+![top5after.png](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/Top%205%20after.png)
 •	Math and reading scores by grade only affected the 9th grade
 •	Scores by school spending decreased a little but not enough to impact the charts when rounded to the nearest % or .1 score
+![spendbefore](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/Spending%20ranges%20before.png)
+![spendafter.png](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/Spending%20ranges%20after.png)
 •	Scores for Medium schools decreased a little but not enough to impact the chart when rounded to the nearest % or .1 score
+![bysizebefore](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/By%20school%20size%20before.png)
+![bysizeafter.png](https://github.com/1fatpanda1/School_District_analysis/blob/main/Resources/By%20school%20size%20before.png)
 •	Scores for charter schools decreased a little but not enough to impact the chart when rounded to the nearest % or .1 score
 
 
